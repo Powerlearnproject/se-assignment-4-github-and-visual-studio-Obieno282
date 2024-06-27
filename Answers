@@ -1,0 +1,44 @@
+
+Introduction to Github:
+Github is a platform for hosting code that allows for collaboration from different people regardless of where they are.
+Some of the features of github include; github issues let you track your work on github, gist code helps to share code snippets with others. Functions of github are; hosting git repositories, provides developers with tools to ship better code through command line features, pull requests.
+Github supports collaborative software development by allowing for different developers to contribute to code through pull requests.
+
+Repositories on Github:
+A github repository is a place where you can store code, files and each file's revision history.
+How to create a github repository; On the upper right corner of the github page click on new repository-->type a name for the repository-->put a description(optional)-->choose visibility for the repository-->create repository.
+The essential elements to be included in a repository are the READDME.md file and it's visibility.
+
+Version Control with Git:
+Git provides for version control as a developer can see commands executed in the file through the git commands as they were executed sequentially. Git enhances version control for developers by allowing developers see the entire timeline of their changes and progression of any project in one place by accessing the history of a project.
+
+Branching and Merging in Github:
+Branches are a unique set of code changes with a unique name. Importance of branches are; allow for development of features, fixing bugs.
+To create a branch, the 'git branch' command is used.
+
+Pull Request and Code Review:
+A pull request lets the developer tell others about changes that have been pushed to a branch in a repository on Github. In a pull request, collaborators can review and discuss the proposed changes before they are included.
+Steps to create and review pull requests;Under repository name,click pull request-->click the pull request to be reviewed-->click files changed-->filter the files to show only the files tobe reviewed
+
+Github Actions:
+Github actions is a continous integration and continous delivery platform that allows for creation of workflows that build and test every pull request to a repository or deploy merged pull requests to production.
+
+Introduction to Visual Studio:
+Visual studio is acomprehensive IDE for .NET and C++ developers on windows. Its key features inclide; code refactoring, integrated debugger, forms designer, database scheme designer. Visual studio deffers from visual studio code in that it is a comprehensive IDE tool for software development while VS Code is an extension-based code editor.
+
+Integrating Github wirh Visual Studio:
+Integrating github repository with visual studio;Open visual studio-->select create new project-->create git repository(from git menu)-->push to a new remote section(Github)
+Integration of visual studio with github allows developers to create and review pull requests directly within visual studio hence facilitating code reviews and discussions.
+
+Debugging in Visual Studio:
+Breakin-->causes a user-mode break to occur in a process
+DumpChk-->validate a memory dump file
+GFlags-->control registry keys and other settings
+Kill-->Terminate a process
+TList-->list all running processes
+
+Collaborative Development using Github and Visual Studio:
+Github and visual studio support collaborative development in that github repositories extension lets one browse, search, edit and commit to any github remote repository without having to clone into it.
+example of projects;Script-Administrator Public
+
+Sources:PLP notes, PLP Class recordings, https://github.com>topics>example-project
